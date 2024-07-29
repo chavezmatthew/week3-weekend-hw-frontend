@@ -23,7 +23,7 @@ To set up and run the site locally, follow these steps:
 1. **Clone the Repository**
    - Clone the repository using the following command:
      ```bash
-     git clone [https://github.com/chavezmatthew/week2-weekend-hw-frontend.git]
+     git clone [https://github.com/chavezmatthew/week3-weekend-hw-frontend.git]
      ```
 2. **Open in VS Code**
    - Navigate to the `index.html` file within the cloned repository.
